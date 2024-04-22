@@ -1,0 +1,13 @@
+//Auth0 Environment Config
+auth0_domain = "example.us.auth0.com"
+auth0_client_id = "applicationClientID"
+auth0_client_secret = "applicationClientSecret"
+//Optional
+# auth0_debug = false
+
+//Auth0 Branding Config
+primary_button = "#635dff"
+background_image_url = "<Background image url>"
+logo_url = "<Logo URL>"
+# logo_height = 52.0
+# font_url = "<Font URL>"
